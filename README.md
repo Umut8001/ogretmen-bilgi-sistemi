@@ -28,4 +28,4 @@ flutter run
 ```
 
 ## 📄 Proje Raporu
-Detaylı dokümantasyon için proje raporuna bakabilirsiniz.
+Detaylı dokümantasyon için [proje raporuna](Mobil_Proje_2359.pdf) bakabilirsiniz.
