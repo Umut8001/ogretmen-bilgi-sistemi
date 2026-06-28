@@ -1,16 +1,31 @@
-# okul_bilgi_sistemi
+# 📚 Öğretmen Bilgi Sistemi
 
-A new Flutter project.
+Flutter ve Firebase tabanlı, yüz tanıma destekli okul yönetim uygulaması.
 
-## Getting Started
+## 🚀 Özellikler
+- 🔐 Yüz tanıma API'si ile öğrenci kimlik doğrulama
+- 📋 İzin yönetimi (okul içi/dışı hareketlilik takibi)
+- 📢 Gerçek zamanlı duyuru sistemi
+- 🏫 Çoklu okul desteği (okul kodu sistemi)
+- 🌙 Açık/Koyu mod desteği
+- 👤 Yönetici ve öğretmen hesap rolleri
 
-This project is a starting point for a Flutter application.
+## 🛠️ Kullanılan Teknolojiler
+- **Flutter** — Cross-platform mobil uygulama
+- **Firebase** — Bulut veritabanı ve kimlik doğrulama
+- **Python** — Yüz tanıma API'si (face embedding)
+- **flutter_local_notifications** — Bildirim sistemi
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Ekran Görüntüleri
+_(Yakında eklenecek)_
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ⚙️ Kurulum
+```bash
+git clone https://github.com/Umut8001/ogretmen-bilgi-sistemi.git
+cd ogretmen-bilgi-sistemi
+flutter pub get
+flutter run
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📄 Proje Raporu
+Detaylı dokümantasyon için proje raporuna bakabilirsiniz.
