@@ -1,0 +1,218 @@
+{
+  "edit_student.title": "Öğrenci Düzenle",
+
+  "edit_student.student_info": "Öğrenci Bilgileri",
+  "edit_student.name": "Ad",
+  "edit_student.surname": "Soyad",
+  "edit_student.birthdate_hint": "Doğum Tarihini Seçiniz",
+
+  "edit_student.face_photo": "Yüz Fotoğrafı",
+  "edit_student.gallery": "Galeri",
+  "edit_student.camera": "Kamera",
+
+  "edit_student.photo_warning_title": "Görsel Kalitesi Ve Netlik Uyarısı",
+  "edit_student.photo_warning_1":
+    "• Fotoğrafınızın yüksek çözünürlüğe sahip olması, bulanık olmaması ve yüz hatlarınızın net bir şekilde belirgin olması gerekmektedir.",
+  "edit_student.photo_warning_2":
+    "• Gözlük parlaması, gölge veya maske kabul edilmemektedir.",
+
+  "edit_student.update_button": "Güncelle",
+  "edit_student.delete_button": "Öğrenciyi Sil",
+
+  "edit_student.update_success": "Öğrenci Bilgisi Başarıyla Güncellendi!",
+  "edit_student.update_error": "Öğrenci Bilgisi Güncelleme Hatası",
+
+  "edit_student.delete_error": "Öğrenci Silme Hatası",
+  "edit_student.delete_success":
+    "{name} {surname} isimli {id} numaralı öğrenci başarıyla silindi!",
+
+
+  "account_creation.school_account": "Okul Hesabı",
+  "account_creation.teacher_account": "Öğretmen Hesabı",
+  "account_creation.title_success": "Kayıt Başarıyla \nTamamlandı!",
+  "account_creation.subtitle_success": "Öğretmen hesabınız oluşturuldu.",
+  "account_creation.register_button": "Kayıt Ol",
+  "account_creation.done_button": "Tamam",
+
+
+  "add_student.title": "Öğrenci Ekle",
+  "add_student.student_info": "Öğrenci Bilgileri",
+  "add_student.name": "Ad",
+  "add_student.surname": "Soyad",
+  "add_student.number": "Numara",
+  "add_student.birthdate_hint": "Doğum Tarihini Seçiniz",
+
+  "add_student.face_photo": "Yüz Fotoğrafı",
+  "add_student.gallery": "Galeri",
+  "add_student.camera": "Kamera",
+
+  "add_student.photo_warning_title": "Görsel Kalitesi Ve Netlik Uyarısı",
+  "add_student.photo_warning_1":
+    "• Fotoğrafınızın yüksek çözünürlüğe sahip olması, bulanık olmaması ve yüz hatlarınızın net bir şekilde belirgin olması gerekmektedir.",
+  "add_student.photo_warning_2":
+    "• Gözlük parlaması, gölge veya maske kabul edilmemektedir.",
+
+  "add_student.save_button": "Kaydet",
+  "add_student.save_success": "Öğrenci Başarıyla Eklendi!",
+  "add_student.save_error": "Öğrenci Ekleme Başarısız",
+
+  "add_note.preview_title": "Önizleme",
+  "add_note.add_title": "Duyuru Ekle",
+  "add_note.note_section_title": "Duyuru",
+  "add_note.title_field": "Başlık",
+  "add_note.body_hint": "Duyuru içeriği...(En az 10 karakter olmalı)",
+  "add_note.char_count": "{count} karakter",
+  "add_note.warning_title_empty": "• Başlık alanı boş bırakılamaz.",
+  "add_note.warning_body_length": "• Duyuru içeriği en az 10 karakter olmalıdır.",
+  "add_note.next_button": "İleri",
+  "add_note.edit_button": "Düzenlemeye Devam Et",
+  "add_note.clear_button": "Formu Temizle",
+  "add_note.success_message": "Duyuru Başarıyla Eklendi!",
+  "add_note.error_message": "Duyuru Ekleme Başarısız",
+
+
+  "edit_note.preview_title": "Önizleme",
+  "edit_note.edit_title": "Duyuru Düzenle",
+  "edit_note.select_note": "Duyuru Seç",
+  "edit_note.note_section_title": "Duyuru",
+  "edit_note.title_field": "Başlık",
+  "edit_note.body_hint": "Duyuru içeriği...(En az 10 karakter olmalı)",
+  "edit_note.char_count": "{count} karakter",
+  "edit_note.warning_title_empty": "• Başlık alanı boş bırakılamaz.",
+  "edit_note.warning_body_length": "• Duyuru içeriği en az 10 karakter olmalıdır.",
+  "edit_note.created_date": "Oluşturma Tarihi: ",
+  "edit_note.updated_date": "Son Düzenleme Tarihi: ",
+  "edit_note.next_button": "İleri",
+  "edit_note.edit_button_continue": "Düzenlemeye Devam Et",
+  "edit_note.clear_button": "Formu Temizle",
+  "edit_note.update_success": "Duyuru Başarıyla Güncellendi!",
+  "edit_note.update_error": "Duyuru Güncelleme Hatası",
+
+
+
+  "home.loading_students_error": "Öğrenci listesi yüklenirken hata oluştu.",
+  "home.loading_notes_error": "Duyurular yüklenirken hata oluştu.",
+  "home.loading": "Yükleniyor...",
+  "home.open_theme": "Açık Tema",
+  "home.dark_theme": "Koyu Tema",
+  "home.device_theme": "Cihaz Temasını Kullan",
+  "home.add_student": "Öğrenci Ekle",
+  "home.search_student": "Öğrenci Ara",
+  "home.list_students": "Öğrenci Listele",
+  "home.add_note": "Duyuru Ekle",
+
+
+
+  "list_student.title": "Öğrenci Listele",
+  "list_student.all_students": "Tüm Öğrenciler",
+  "list_student.permitted_students": "İzinli Olanlar",
+  "list_student.empty_list": "Listelenecek öğrenci bulunamadı.",
+  "list_student.count": "{count} öğrenci listelendi",
+
+
+
+  "school_code.title_success": "Kayıt Başarıyla \nTamamlandı!",
+  "school_code.subtitle_success": "Okul hesabınız oluşturuldu.",
+  "school_code.code_label": "Okul Kodunuz",
+  "school_code.copy_button": "Kodu Kopyala",
+  "school_code.copied_button": "Panoya Kopyalandı",
+  "school_code.security_warning_title": "Güvenlik Uyarısı",
+  "school_code.security_warning_body": "Bu okul kodunu güvenli bir yerde saklayın. Kod, sadece okulunuzdaki öğretmenlerin sisteme kayıt olabilmesi için kullanılmalıdır.",
+  "school_code.info_title": "Önemli Bilgilendirme",
+  "school_code.info_1": "• Bu kodu yalnızca okulunuzdaki öğretmenlerle paylaşın.",
+  "school_code.info_2": "• Kodu üçüncü şahıslarla paylaşmayın.",
+  "school_code.info_3": "• Öğretmenler bu kodu kullanarak sisteme kayıt olabilir.",
+  "school_code.done_button": "Tamam",
+
+
+  "sign_in.welcome_title": "Hoş Geldiniz",
+  "sign_in.welcome_subtitle": "Devam etmek için giriş yapın",
+  "sign_in.email_field": "E-posta",
+  "sign_in.school_code_field": "Okul Kodu",
+  "sign_in.password_field": "Şifre",
+  "sign_in.remember_me": "Beni Hatırla",
+  "sign_in.sign_in_button": "Giriş Yap",
+  "sign_in.or_divider": "veya",
+  "sign_in.sign_up_button": "Kayıt Ol",
+
+
+  "student_query.title": "Öğrenci Ara",
+  "student_query.select_method": "Arama Yöntemi Seç",
+  "student_query.search_by_number": "Öğrenci No",
+  "student_query.search_by_gallery": "Galeri",
+  "student_query.search_by_live": "Canlı Tanıma",
+  "student_query.search_by_camera": "Kamera",
+  "student_query.number_field": "Numara",
+  "student_query.not_found": "Eşleşme Bulunamadı!",
+  "student_query.search_button": "Ara",
+
+
+  "validator.is_required": "{field} boş bırakılamaz.",
+  "validator.password_min_length": "Şifre en az 8 karakter olmalıdır.",
+  "validator.password_uppercase": "Şifre en az bir büyük harf (A-Z) içermelidir.",
+  "validator.password_lowercase": "Şifre en az bir küçük harf (a-z) içermelidir.",
+  "validator.password_digit": "Şifre en az bir rakam (0-9) içermelidir.",
+  "validator.password_mismatch": "Girilen şifreler eşleşmiyor.",
+  "validator.name_min_length": "İsim en az 2 karakter olmalıdır.",
+  "validator.surname_min_length": "Soyisim en az 2 karakter olmalıdır.",
+  "validator.email_invalid": "Lütfen geçerli bir e-posta adresi girin.",
+  "validator.phone_invalid": "Geçerli bir telefon numarası girin (Örn: 5xx xxx xx xx).",
+  "validator.address_min_length": "Adres en az 10 karakter olmalıdır.",
+  "validator.student_id_invalid": "Öğrenci numarası sadece rakamlardan oluşmalı ve 5 ila 10 hane uzunluğunda olmalıdır.",
+  "validator.school_code_length": "Okul Kodu tam olarak 8 karakter uzunluğunda olmalıdır.",
+  
+  "field.password": "Şifre",
+  "field.confirm_password": "Şifre Onayı",
+  "field.name": "İsim",
+  "field.surname": "Soyisim",
+  "field.email": "E-posta",
+  "field.phone_number": "Telefon Numarası",
+  "field.address": "Adres",
+  "field.student_id": "Öğrenci Numarası",
+  "field.school_code": "Okul Kodu",
+
+  "drawer.contact_info_title": "İletişim Bilgileri",
+  "drawer.address_info_title": "Adres Bilgileri",
+  "drawer.logout_button": "Çıkış Yap",
+
+  "build_note.last_update": "\n\nlast update: {date}",
+
+
+  "create_school.school_name": "Okul Adı",
+  "create_school.school_address": "Okul Adresi",
+  "create_school.school_email": "Okul E-postası",
+  "create_school.school_phone": "Okul Telefonu",
+  "create_school.info_1": "• Okul adını ve adresini doğru girin.",
+  "create_school.info_2": "• Okul kodunuz sistem otomatik oluşturulacaktır.",
+
+
+  "create_teacher.name": "Adınız",
+  "create_teacher.surname": "Soyadınız",
+  "create_teacher.email": "E-postanız",
+  "create_teacher.phone": "Telefon Numaranız",
+  "create_teacher.school_code": "Okul Kodunuz",
+  "create_teacher.password_create": "Şifre Oluşturun",
+  "create_teacher.password_confirm": "Şifre Tekrarı",
+  "create_teacher.info_1": "• Okul kodu zorunludur.",
+  "create_teacher.info_2": "• Geçerli bir E-posta adresi kullanın.",
+
+
+  "student_info.title": "Öğrenci Detay Bilgileri",
+  "student_info.name_surname": "İsim Soyisim: {name} {surname}",
+  "student_info.number": "Numara: {id}",
+  "student_info.permission_status": "İzin: ",
+  "student_info.face_data_status": "Yüz Verisi: ",
+  "student_info.face_data_defined": "Tanımlı",
+  "student_info.face_data_undefined": "Tanımsız",
+  "student_info.date_of_birth": "Doğum tarihi: {date}",
+  "student_info.date_of_birth_unknown": "Doğum tarihi: Bilinmiyor",
+  "student_info.date_of_birth_error": "Doğum tarihi: Bilinmiyor (Hata)",
+  "student_info.permission_grant": "İzin Ver",
+  "student_info.permission_revoke": "İzin Kaldır",
+  "student_info.edit_button": "Düzenle",
+  "student_info.update_error": "Öğrenci Bilgisi Güncelleme Hatası",
+  
+  "student_info.permission_granted_message": "{name} {surname} isimli {id} numaralı öğrenciye izin verildi.",
+  "student_info.permission_revoked_message": "{name} {surname} isimli {id} numaralı öğrencinin izni kaldırıldı."
+
+}

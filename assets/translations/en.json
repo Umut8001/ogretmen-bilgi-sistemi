@@ -1,0 +1,217 @@
+{
+  "edit_student.title": "Edit Student",
+
+  "edit_student.student_info": "Student Information",
+  "edit_student.name": "Name",
+  "edit_student.surname": "Surname",
+  "edit_student.birthdate_hint": "Select Date of Birth",
+
+  "edit_student.face_photo": "Face Photo",
+  "edit_student.gallery": "Gallery",
+  "edit_student.camera": "Camera",
+
+  "edit_student.photo_warning_title": "Image Quality and Clarity Warning",
+  "edit_student.photo_warning_1":
+    "• Your photo must have high resolution, be non-blurry, and clearly show your facial features.",
+  "edit_student.photo_warning_2":
+    "• Glare from glasses, shadows, or masks are not accepted.",
+
+  "edit_student.update_button": "Update",
+  "edit_student.delete_button": "Delete Student",
+
+  "edit_student.update_success": "Student Information Successfully Updated!",
+  "edit_student.update_error": "Student Information Update Error",
+
+  "edit_student.delete_error": "Student Deletion Error",
+  "edit_student.delete_success":
+    "Student {id} ({name} {surname}) has been successfully deleted!",
+
+
+  "account_creation.school_account": "School Account",
+  "account_creation.teacher_account": "Teacher Account",
+  "account_creation.title_success": "Registration Successfully \nCompleted!",
+  "account_creation.subtitle_success": "Your teacher account has been created.",
+  "account_creation.register_button": "Register",
+  "account_creation.done_button": "Done",
+
+
+  "add_student.title": "Add Student",
+  "add_student.student_info": "Student Information",
+  "add_student.name": "Name",
+  "add_student.surname": "Surname",
+  "add_student.number": "Number",
+  "add_student.birthdate_hint": "Select Date of Birth",
+
+  "add_student.face_photo": "Face Photo",
+  "add_student.gallery": "Gallery",
+  "add_student.camera": "Camera",
+
+  "add_student.photo_warning_title": "Image Quality and Clarity Warning",
+  "add_student.photo_warning_1":
+    "• Your photo must have high resolution, be non-blurry, and clearly show your facial features.",
+  "add_student.photo_warning_2":
+    "• Glare from glasses, shadows, or masks are not accepted.",
+
+  "add_student.save_button": "Save",
+  "add_student.save_success": "Student Successfully Added!",
+  "add_student.save_error": "Student Addition Failed",
+
+  "add_note.preview_title": "Preview",
+  "add_note.add_title": "Add Announcement",
+  "add_note.note_section_title": "Announcement",
+  "add_note.title_field": "Title",
+  "add_note.body_hint": "Announcement content... (Must be at least 10 characters)",
+  "add_note.char_count": "{count} characters",
+  "add_note.warning_title_empty": "• Title field cannot be left blank.",
+  "add_note.warning_body_length": "• Announcement content must be at least 10 characters long.",
+  "add_note.next_button": "Next",
+  "add_note.edit_button": "Continue Editing",
+  "add_note.clear_button": "Clear Form",
+  "add_note.success_message": "Announcement Successfully Added!",
+  "add_note.error_message": "Announcement Addition Failed",
+
+
+  "edit_note.preview_title": "Preview",
+  "edit_note.edit_title": "Edit Announcement",
+  "edit_note.select_note": "Select Announcement",
+  "edit_note.note_section_title": "Announcement",
+  "edit_note.title_field": "Title",
+  "edit_note.body_hint": "Announcement content... (Must be at least 10 characters)",
+  "edit_note.char_count": "{count} characters",
+  "edit_note.warning_title_empty": "• Title field cannot be left blank.",
+  "edit_note.warning_body_length": "• Announcement content must be at least 10 characters long.",
+  "edit_note.created_date": "Creation Date: ",
+  "edit_note.updated_date": "Last Update Date: ",
+  "edit_note.next_button": "Next",
+  "edit_note.edit_button_continue": "Continue Editing",
+  "edit_note.clear_button": "Clear Form",
+  "edit_note.update_success": "Announcement Successfully Updated!",
+  "edit_note.update_error": "Announcement Update Error",
+
+
+
+  "home.loading_students_error": "An error occurred while loading the student list.",
+  "home.loading_notes_error": "An error occurred while loading announcements.",
+  "home.loading": "Loading...",
+  "home.open_theme": "Light Theme",
+  "home.dark_theme": "Dark Theme",
+  "home.device_theme": "Use Device Theme",
+  "home.add_student": "Add Student",
+  "home.search_student": "Search Student",
+  "home.list_students": "List Students",
+  "home.add_note": "Add Announcement",
+
+
+
+  "list_student.title": "List Students",
+  "list_student.all_students": "All Students",
+  "list_student.permitted_students": "Permitted Students",
+  "list_student.empty_list": "No students found to list.",
+  "list_student.count": "{count} students listed",
+
+
+
+  "school_code.title_success": "Registration Successfully \nCompleted!",
+  "school_code.subtitle_success": "Your school account has been created.",
+  "school_code.code_label": "Your School Code",
+  "school_code.copy_button": "Copy Code",
+  "school_code.copied_button": "Copied to Clipboard",
+  "school_code.security_warning_title": "Security Warning",
+  "school_code.security_warning_body": "Keep this school code in a safe place. The code should only be used by teachers at your school to register for the system.",
+  "school_code.info_title": "Important Information",
+  "school_code.info_1": "• Share this code only with teachers at your school.",
+  "school_code.info_2": "• Do not share the code with third parties.",
+  "school_code.info_3": "• Teachers can register for the system using this code.",
+  "school_code.done_button": "Done",
+
+
+  "sign_in.welcome_title": "Welcome",
+  "sign_in.welcome_subtitle": "Sign in to continue",
+  "sign_in.email_field": "E-mail",
+  "sign_in.school_code_field": "School Code",
+  "sign_in.password_field": "Password",
+  "sign_in.remember_me": "Remember Me",
+  "sign_in.sign_in_button": "Sign In",
+  "sign_in.or_divider": "or",
+  "sign_in.sign_up_button": "Sign Up",
+
+
+  "student_query.title": "Search Student",
+  "student_query.select_method": "Select Search Method",
+  "student_query.search_by_number": "Student No",
+  "student_query.search_by_gallery": "Gallery",
+  "student_query.search_by_live": "Live Recognition",
+  "student_query.search_by_camera": "Camera",
+  "student_query.number_field": "Number",
+  "student_query.not_found": "Match Not Found!",
+  "student_query.search_button": "Search",
+
+
+  "validator.is_required": "{field} cannot be left blank.",
+  "validator.password_min_length": "Password must be at least 8 characters long.",
+  "validator.password_uppercase": "Password must contain at least one uppercase letter (A-Z).",
+  "validator.password_lowercase": "Password must contain at least one lowercase letter (a-z).",
+  "validator.password_digit": "Password must contain at least one digit (0-9).",
+  "validator.password_mismatch": "The passwords entered do not match.",
+  "validator.name_min_length": "Name must be at least 2 characters long.",
+  "validator.surname_min_length": "Surname must be at least 2 characters long.",
+  "validator.email_invalid": "Please enter a valid e-mail address.",
+  "validator.phone_invalid": "Please enter a valid phone number (e.g., 5xx xxx xx xx).",
+  "validator.address_min_length": "Address must be at least 10 characters long.",
+  "validator.student_id_invalid": "Student number must consist only of digits and be between 5 to 10 characters long.",
+  "validator.school_code_length": "School Code must be exactly 8 characters long.",
+  
+  "field.password": "Password",
+  "field.confirm_password": "Confirm Password",
+  "field.name": "Name",
+  "field.surname": "Surname",
+  "field.email": "E-mail",
+  "field.phone_number": "Phone Number",
+  "field.address": "Address",
+  "field.student_id": "Student Number",
+  "field.school_code": "School Code",
+
+  "drawer.contact_info_title": "Contact Information",
+  "drawer.address_info_title": "Address Information",
+  "drawer.logout_button": "Sign Out",
+
+  "build_note.last_update": "\n\nlast update: {date}",
+
+
+  "create_school.school_name": "School Name",
+  "create_school.school_address": "School Address",
+  "create_school.school_email": "School E-mail",
+  "create_school.school_phone": "School Phone",
+  "create_school.info_1": "• Enter the school name and address correctly.",
+  "create_school.info_2": "• Your School Code will be automatically generated by the system.",
+
+
+  "create_teacher.name": "Your Name",
+  "create_teacher.surname": "Your Surname",
+  "create_teacher.email": "Your E-mail",
+  "create_teacher.phone": "Your Phone Number",
+  "create_teacher.school_code": "Your School Code",
+  "create_teacher.password_create": "Create Password",
+  "create_teacher.password_confirm": "Confirm Password",
+  "create_teacher.info_1": "• School code is mandatory.",
+  "create_teacher.info_2": "• Use a valid E-mail address.",
+
+
+  "student_info.title": "Student Detail Information",
+  "student_info.name_surname": "Name Surname: {name} {surname}",
+  "student_info.number": "Number: {id}",
+  "student_info.permission_status": "Permission: ",
+  "student_info.face_data_status": "Face Data: ",
+  "student_info.face_data_defined": "Defined",
+  "student_info.face_data_undefined": "Undefined",
+  "student_info.date_of_birth": "Date of birth: {date}",
+  "student_info.date_of_birth_unknown": "Date of birth: Unknown",
+  "student_info.date_of_birth_error": "Date of birth: Unknown (Error)",
+  "student_info.permission_grant": "Grant Permission",
+  "student_info.permission_revoke": "Revoke Permission",
+  "student_info.edit_button": "Edit",
+  "student_info.update_error": "Student Information Update Error",
+  
+  "student_info.permission_granted_message": "Permission granted to student {id}, named {name} {surname}.",
+  "student_info.permission_revoked_message": "Permission revoked from student {id}, named {name} {surname}."
+}
